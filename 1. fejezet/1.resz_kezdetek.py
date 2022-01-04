@@ -1,0 +1,3 @@
+#print - kiírattás
+
+print('Asd')
